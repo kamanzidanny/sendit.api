@@ -1,3 +1,3 @@
 # sendit.api
-a restful API, this is a will that will let customers buy product through the internet without leaving the location.
+a restful API, this is a a project that will let customers buy the products through the internet without leaving their locations.
 The project is built in node.js with the combination of express framework.
