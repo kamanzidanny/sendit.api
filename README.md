@@ -1,3 +1,3 @@
 # sendit.api
-Restful API, this is a a project that will let customers buy the products through the internet without leaving their locations.
-The project is built in node.js with the combination of express framework.
+Restful API, this is a a project that will help customers in delivery services.
+The project is build in node.js with the combination of express framework.
